@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    }
+    .dark-box {
+      background-color: #1a1a1a;
+      padding: 80px;
+      border-radius: 12px;
+      height: 600px;
+      width: 500px;
+      opacity: 0.6;
+    }
+    .image-side img {
+      width:500px;
+      height: 700px;
+      object-fit: cover;
+      border-radius: 12px;
+    }
+    .custom-columns {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+    }
+    .container {
+        background-color: black;
+    }
+    .okak {
+        opacity: 0.9;
+    }
+    p {
+     margin-left:-65px ; 
+     font-size: 320px;
+     font-weight: 700; 
+    font-family: 'Oswald';
+    color: rgba(51, 50, 50, 0.648);
+    }
